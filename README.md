@@ -1,0 +1,2 @@
+# Plagiarism-Detector
+ Checking paras
